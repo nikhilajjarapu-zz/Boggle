@@ -51,7 +51,6 @@ public class WordSearch
 
 	}
 
-	@SuppressWarnings("serial")
 	public void searchWords(int i, int j, String word)
 	{
 
